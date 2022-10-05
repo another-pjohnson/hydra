@@ -1,6 +1,6 @@
 defaults:
   - base_config
-  - db: mysql
+  - db: base_postgresql
   # You typically want _self_ somewhere after the schema (base_config)
   - _self_
 
